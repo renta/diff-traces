@@ -1,2 +1,2 @@
 # diff-traces
-Repo to illustrate an Opentelemetry-Go issues
+Repo to illustrate an Opentelemetry-Go issue. Run `go test ./...`
